@@ -1,34 +1,33 @@
+
+
 <h1 align="center">Hi 👋, I'm Gokul Ganesan</h1>
+<h3 align="center">🚀 A Passionate Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=600&lines=🧬+M.Sc+Biomedical+Genomics+Student;🔬+Passionate+about+Data+Analysis;🧪+Wet+Lab+Enthusiast;📊+Turning+Biological+Data+into+Insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
 
- 🧬 About Me
+### 👨‍💻 About Me
+- 🔭 Currently working on **HTML & Shell projects**
+- 🌱 Learning **Web Development**
+- 📫 Reach me at **gokulganeshan650@gmail.com**
+- ⚡ Fun fact: I love building cool things!
 
-```yaml
-Name        : Gokul Ganesan
-Degree      : M.Sc Biomedical Genomics
-Interests   : Data Analysis | Wet Lab | Genomics Research
-Email       : gokulganeshan650@gmail.com
-Status      : Always Learning 🚀
+---
 
-
- 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-
 </p>
 
 ---
 
- 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gokul650222&show_icons=true&theme=tokyonight" />
   <br/>
@@ -39,8 +38,7 @@ Status      : Always Learning 🚀
 
 ---
 
-
- 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gokul650222&theme=tokyonight&row=1"/>
 </p>
