@@ -22,6 +22,8 @@ Status      : Always Learning 🚀
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+
 </p>
 
 ---
@@ -36,6 +38,7 @@ Status      : Always Learning 🚀
 </p>
 
 ---
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
