@@ -16,7 +16,7 @@ Email       : gokulganeshan650@gmail.com
 Status      : Always Learning 🚀
 
 
-### 🛠️ Tech Stack
+ 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,7 +28,7 @@ Status      : Always Learning 🚀
 
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gokul650222&show_icons=true&theme=tokyonight" />
   <br/>
@@ -40,7 +40,7 @@ Status      : Always Learning 🚀
 ---
 
 
-### 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gokul650222&theme=tokyonight&row=1"/>
 </p>
