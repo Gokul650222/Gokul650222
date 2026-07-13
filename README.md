@@ -1,20 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Gokul Ganesan</h1>
-<h3 align="center">🚀 A Passionate Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=600&lines=🧬+M.Sc+Biomedical+Genomics+Student;🔬+Passionate+about+Data+Analysis;🧪+Wet+Lab+Enthusiast;📊+Turning+Biological+Data+into+Insights!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **HTML & Shell projects**
-- 🌱 Learning **Web Development**
-- 📫 Reach me at **gokulganeshan650@gmail.com**
-- ⚡ Fun fact: I love building cool things!
-
+### 🧬 About Me
+Name        : Gokul Ganesan
+Degree      : M.Sc Biomedical Genomics
+Interests   : Data Analysis | Wet Lab | Genomics Research
+Email       : gokulganeshan650@gmail.com
+Status      : Always Learning 🚀
 ---
 
 ### 🛠️ Tech Stack
